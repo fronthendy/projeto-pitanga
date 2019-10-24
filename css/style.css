@@ -68,3 +68,7 @@ footer {
     width: 350px;
     margin: 0 auto;
 }
+
+main {
+    min-height: 70vh;
+}
